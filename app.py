@@ -1,5 +1,5 @@
 """
-Main application file
+Main application file - updating the content
 """
 from flask import Flask
 import logging
