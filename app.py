@@ -1,5 +1,5 @@
 """
-Main application file - updating the content
+Main application file - removing the content
 """
 from flask import Flask
 import logging
